@@ -15,3 +15,10 @@ This project is designed to be visually appealing, lightweight, and responsive f
 ---
 
 ## 📂 Project Structure
+rakshabandhan/
+│
+├── index.html # Main homepage
+├── card.html # Special Rakhi card page
+├── gift.webp # Raksha Bandhan gift image
+├── rb.mp4 # Raksha Bandhan video
+└── style.css / script.js (if present)
